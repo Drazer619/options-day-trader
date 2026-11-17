@@ -1,0 +1,11 @@
+# personal trading data - never commit
+config.json
+journal.csv
+runs/
+cache/
+.options-desk/
+
+__pycache__/
+*.pyc
+.venv/
+.env

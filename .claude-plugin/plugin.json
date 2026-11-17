@@ -1,0 +1,8 @@
+{
+  "name": "options-day-trader",
+  "description": "Universal intraday options assistant for Indian markets (NIFTY, BANKNIFTY, SENSEX, stocks): brief, breakout watch, strike and lot sizing, odds, journal. Never places orders.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "options", "nifty", "sensex", "day-trading", "paper-trading", "india"],
+  "skills": "./skills/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "options-day-trader",
+  "owner": { "name": "options-day-trader contributors" },
+  "plugins": [
+    {
+      "name": "options-day-trader",
+      "source": "./",
+      "description": "Universal intraday options assistant for Indian markets. Never places orders."
+    }
+  ]
+}
